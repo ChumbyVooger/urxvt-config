@@ -36,4 +36,4 @@
 *.color15:      #f9e6c7
 
 ! remove scrollbar
-urxvt.scrollbar=false
+urxvt.scrollbar0:false

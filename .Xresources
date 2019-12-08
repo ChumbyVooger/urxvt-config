@@ -34,3 +34,6 @@
 ! white
 *.color7:       #a28770
 *.color15:      #f9e6c7
+
+#Remove scrollbar
+urxvt.scrollbar=false
